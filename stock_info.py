@@ -35,8 +35,4 @@ df.index = df.index.date
 st.subheader(f"[{stock_name}] 주가 데이터")
 st.dataframe(df.head())
 
-#asdasd
-
-
-
-
+#asd
