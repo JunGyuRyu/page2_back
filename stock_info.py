@@ -36,4 +36,3 @@ st.subheader(f"[{stock_name}] 주가 데이터")
 st.dataframe(df.head())
 
 #asd
-#test
